@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Game_Menu.unity
+    guid: 59e399fa310eeed4d8d2129ff5004036
+  - enabled: 1
+    path: Assets/Scenes/Game_Selection.unity
+    guid: 3ce506b4b2b211049b1f534f26fb2d16
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: e09fa74e87e07ee44a556624df6ac443
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 931096654bdd22c4dbd66f1dd37825d7
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 138cc707a8f511a49ace0b1ac7697b94
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 36b32f23701cc5d4cb53ca7635a754c4
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: 6dfeaf6e7f99ec043a2654c85314a49f
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: b67ed75749a63694e88b1610bb8ce7e4
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: 37d68490a17f6ca459d83f9d2fa6bb6f
+  - enabled: 1
+    path: Assets/Scenes/Level9.unity
+    guid: 477dbb6679aeb5a458cbd3f89150f96f
+  - enabled: 1
+    path: Assets/Scenes/Level1_Fly.unity
+    guid: 99f660395a96c694c91b9100260b001b
+  - enabled: 1
+    path: Assets/Scenes/Level2_Fly.unity
+    guid: 584e18209bddd4648ac9a3bcdf830838
+  - enabled: 1
+    path: Assets/Scenes/Level3_Fly.unity
+    guid: 437d67387ddc6384cb942fd18c371bd2
+  - enabled: 1
+    path: Assets/Scenes/Level4_Fly.unity
+    guid: 621cf45e71d415f4898214270b1ae6fc
+  - enabled: 1
+    path: Assets/Scenes/Level5_Fly.unity
+    guid: eb2513017886c4948b1ad60a52bd4c44
+  - enabled: 1
+    path: Assets/Scenes/Level6_Fly.unity
+    guid: 1683183e3fcb1fb408d9fd727feb8d63
+  - enabled: 1
+    path: Assets/Scenes/Level7_Fly.unity
+    guid: 3b5790bf7af6a964c8fb61f7f353da61
+  - enabled: 1
+    path: Assets/Scenes/Level8_Fly.unity
+    guid: 0d57292ebdafb414a98b2320f79b6a9c
+  - enabled: 1
+    path: Assets/Scenes/Level9_Fly.unity
+    guid: 1a2ad8645d0346a42bc94a6031565e55
+  m_configObjects: {}
